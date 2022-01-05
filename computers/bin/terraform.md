@@ -33,6 +33,7 @@ $ terraform plan \
 ```
 
 - https://www.terraform.io/intro/getting-started/variables.html
+- https://spacelift.io/blog/how-to-use-terraform-variables
 
 ## AWS
 ### attach a keypair
